@@ -1,4 +1,4 @@
 # still under construction 
 suggest suggest reach out to me through:
-https://www.linkedin.com/in/youssef-imlyhen/
-https://github.com/youssef-imlyhen/
+- (github)[https://www.linkedin.com/in/youssef-imlyhen/]
+- (linkedin)[https://github.com/youssef-imlyhen/]
